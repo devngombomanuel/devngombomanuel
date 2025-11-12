@@ -54,15 +54,11 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 - Colabordador de uma biblioteca virtual premiada na categoria "Impacto Académico" na 5ª Conferência Científica de Tecnologia, Inovação e Empreendedorismo da Universidade de Luanda.
 
 
-## 💻 Linguagens Frequentes
-![Stacks mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&theme=light&hide_border=true)
-
-
 ## 🛠️ Contribuições em Projetos
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliobugfixer&theme=dark)
 
 ## 📊 Estatísticas no Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&layout=compact&theme=light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&theme=light)
 
 
 ## 📬 Contatos
