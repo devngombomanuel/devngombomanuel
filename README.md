@@ -55,14 +55,15 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 
 
 ## 💻 Linguagens Frequentes
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&theme=light&hide_border=true)
+![Stacks mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&theme=light&hide_border=true)
 
 
 ## 🛠️ Contribuições em Projetos
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliobugfixer&theme=dark)
 
 ## 📊 Estatísticas no Github
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&layout=compact&theme=light)
+
 
 ## 📬 Contatos
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-júlio-miguel-manuel-66b72a24a)
