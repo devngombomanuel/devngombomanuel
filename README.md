@@ -23,10 +23,11 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 - ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- 
+  
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- 
+  
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  
 - ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 
@@ -67,8 +68,9 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliobugfixer&theme=dark)
 
 - ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-(https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=black)
+- 
+## 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true)
 
 ## 📬 Contatos
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-júlio-miguel-manuel-66b72a24a)
