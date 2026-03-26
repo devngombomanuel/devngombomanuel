@@ -63,14 +63,11 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 ## 🏆 Conquistas
 - Colabordador de uma biblioteca virtual premiada na categoria "Impacto Académico" na 5ª Conferência Científica de Tecnologia, Inovação e Empreendedorismo da Universidade de Luanda.
 
-
 ## 🛠️ Contribuições em Projetos
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight&cache_seconds=0)
 
-- ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-- 
 ## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&cache_seconds=0)
 
 ## 📬 Contatos
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-júlio-miguel-manuel-66b72a24a)
