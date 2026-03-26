@@ -66,7 +66,7 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 - Colabordador de uma biblioteca virtual premiada na categoria "Impacto Académico" na 5ª Conferência Científica de Tecnologia, Inovação e Empreendedorismo da Universidade de Luanda.
 
 ## 🛠️ Contribuições em Projetos
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true)
 
 ## 📊 Estatísticas
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliobugfixer&show_icons=true)
