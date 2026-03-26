@@ -65,7 +65,7 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 
 
 ## 🛠️ Contribuições em Projetos
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliobugfixer&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight)
 
 - ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 - 
