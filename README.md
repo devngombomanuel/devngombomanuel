@@ -57,19 +57,19 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 - [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 
 
-## 🌟 Projetos em Destaque
-- __Marketplace de Salões de Eventos:__ Uma plataforma para reservas de salões de eventos.
+## 🌟 Featured Projects
+- __Event Halls Marketplace:__ A platform for booking event halls.
 
-- __Sistema de Gestão para o Núcleo de Programação Competitiva:__ Um sistema integrado para gerir informações e recursos do núcleo pertencentes ao Instituto de Tecnologias de Informação e Comunicação.
+- __Management System for the Competitive Programming Club:__ An integrated system to manage the club's information and resources at the Institute of Information and Communication Technologies.
 
-## 🏆 Conquistas
-- Colabordador de uma biblioteca virtual premiada na categoria "Impacto Académico" na 5ª Conferência Científica de Tecnologia, Inovação e Empreendedorismo da Universidade de Luanda.
+## 🏆 Achievements
+- Collaborator of a virtual library awarded in the "Academic Impact" category at the 5th Scientific Conference on Technology, Innovation, and Entrepreneurship at the University of Luanda.
 
-## 📊 Estatísticas
+## 📊 Statistics
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true)
 
 
-## 📬 Contatos
+## 📬 Contact
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-júlio-miguel-manuel-66b72a24a)
 - [![Codeforces](https://img.shields.io/badge/Codeforces-MNjulio23-blue)](https://codeforces.com/profile/MNjulio23)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioMXXIII)
