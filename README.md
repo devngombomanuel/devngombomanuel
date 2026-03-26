@@ -1,19 +1,20 @@
 
-## Bem-vindo!✅
-👋Olá! Sou o Júlio!
+## Welcome!✅
+👋Hi, guys!
 ##
 
 ## 🧑🏿‍💻 About Me
-Jovem  apaixonado por tecnologias de informação e comunicação, estudante de Licenciatura em Engenharia Informática. Voltado para as áreas de desenvolvimento web, desenvolvimento de games.
-Membro da comunidade [Angola Open-Source Community](<https://www.linkedin.com/company/angola-open-source-community/>), o que tem reforçado meu compromisso com o compartilhamento de conhecimento e a colaboração em projetos abertos.
+Passionate about Technologies, focused on software development, with a strong interest in building innovative and impactful digital solutions.
+Some of my hobbies include watching anime, playing games, listening to music, and reading books.
 
-Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
+
+
 <p align="right">
   <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Myself..." width="400">
 </p>
 
-## 🚀 Habilidades
-**Modelagem**
+## 🚀 Hard Skills
+**Modeling**
 - ![UML](https://img.shields.io/badge/UML-FF5733?style=for-the-badge&logo=uml&logoColor=white)
 
 **Back-end**
@@ -22,8 +23,12 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 - ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- 
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
-- ![SQL](https://img.shields.io/badge/SQL-FFCA28?style=for-the-badge&logo=sql&logoColor=black)
 
 **Front-end**
 
@@ -36,14 +41,18 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-- **Ferramentas**
+- 
+ **DBMS**
+- ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+- **Tools**
 - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 - [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-- ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## 🌟 Projetos em Destaque
 - __Marketplace de Salões de Eventos:__ Uma plataforma para reservas de salões de eventos.
@@ -57,9 +66,9 @@ Alguns dos hobbies incluem animes, games, ouvir música e ler livros.
 ## 🛠️ Contribuições em Projetos
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=juliobugfixer&theme=dark)
 
-## 📊 Estatísticas no Github
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juliobugfixer&show_icons=true&theme=light)
+- ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+(https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=black)
 
 ## 📬 Contatos
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-júlio-miguel-manuel-66b72a24a)
