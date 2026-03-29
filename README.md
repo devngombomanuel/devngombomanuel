@@ -65,6 +65,11 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 ## 🏆 Achievements
 - Collaborator of a virtual library awarded in the "Academic Impact" category at the 5th Scientific Conference on Technology, Innovation, and Entrepreneurship at the University of Luanda.
 
+- ## 📊 Most Used 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&layout=compact&theme=tokyonight&langs_count=8"/>
+</p>
+
 ## 📊 Statistics
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true)
 
