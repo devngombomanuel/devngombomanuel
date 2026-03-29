@@ -68,7 +68,8 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliobugfixer&layout=compact&theme=tokyonight)
+
 
 ## 📊 Statistics
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true)
