@@ -10,7 +10,7 @@ Some of my hobbies include watching anime, playing games, listening to music, an
 
 
 <p align="right">
-  <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Myself..." width="400">
+  <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Me..." width="400">
 </p>
 
 ## 🚀 Hard Skills
