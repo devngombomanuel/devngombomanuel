@@ -13,7 +13,7 @@ Some of my hobbies include watching anime, playing games, listening to music, an
   <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Me..." width="400">
 </p>
 
-## 🚀 Hard Skills
+## 🚀 Hard Skills Focus
 **Modeling**
 - ![UML](https://img.shields.io/badge/UML-FF5733?style=for-the-badge&logo=uml&logoColor=white)
 
