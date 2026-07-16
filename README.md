@@ -69,12 +69,13 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 - [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 
 ---
-## 🌟 Projetos em Destaque
-### 🏢 Marketplace de Salões de Eventos Plataforma desenvolvida para facilitar a pesquisa, reserva e gestão de salões para eventos.
+### 🌟 Projetos em Destaque
 
-### 🩺 YetuSaúde Plataforma digital voltada para a gestão e acesso a serviços de saúde, oferecendo uma experiência moderna para pacientes e profissionais, com foco em eficiência, acessibilidade e transformação digital no setor da saúde.
+## 🏢 Marketplace de Salões de Eventos Plataforma desenvolvida para facilitar a pesquisa, reserva e gestão de salões para eventos.
 
-### 💻 Sistema de Gestão do Clube de Programação Competitiva Sistema completo para gestão administrativa e académica do Clube de Programação Competitiva do Instituto de Tecnologias de Informação e Comunicação.
+## 🩺 YetuSaúde Plataforma digital voltada para a gestão e acesso a serviços de saúde, oferecendo uma experiência moderna para pacientes e profissionais, com foco em eficiência, acessibilidade e transformação digital no setor da saúde.
+
+## 💻 Sistema de Gestão do Clube de Programação Competitiva Sistema completo para gestão administrativa e académica do Clube de Programação Competitiva do Instituto de Tecnologias de Informação e Comunicação.
 
 ---
 
@@ -91,8 +92,6 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 ---
 
 ## 📬 Contacto
-
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliomanueldev/)
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-manuel-66b72a24a/)
   
