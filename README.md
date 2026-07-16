@@ -9,7 +9,6 @@ Sou **Desenvolvedor de Software com foco em Back-end**, **Programador Competitiv
 
 Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento Full Stack**, **estrutura de dados**, **algoritmos** e **boas práticas de engenharia de software**. Estou em constante aprendizado, buscando aprimorar minhas competências técnicas e contribuir para projetos que gerem impacto real.
 
-Além da programação, gosto de assistir animes, jogar videogames, ouvir música e ler livros.
 
 <p align="right">
   <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Me..." width="400">
