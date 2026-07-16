@@ -92,7 +92,7 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 
 ## 📬 Contacto
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-julio-miguel-manuel-66b72a24a/)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliomanueldev/)
 
 - [![Codeforces](https://img.shields.io/badge/Codeforces-MNjulio23-blue)](https://codeforces.com/profile/MNjulio23)
   
