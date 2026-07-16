@@ -15,7 +15,18 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 </p>
 
 ---
+## 🧠 Soft Skills
 
+- 🚀 **Facilidade de aprendizagem** — capacidade de adquirir novos conhecimentos e adaptar-me rapidamente a novas tecnologias e ambientes.
+- 🤝 **Trabalho em equipa** — colaboração eficiente com diferentes perfis para alcançar objetivos comuns.
+- 💬 **Comunicação** — capacidade de transmitir ideias de forma clara e objetiva.
+- 🧩 **Resolução de problemas** — análise de desafios e criação de soluções eficientes.
+- 📌 **Organização** — planeamento e gestão de prioridades para garantir entregas de qualidade.
+- ⏱️ **Gestão de tempo** — capacidade de definir prioridades, cumprir prazos e organizar tarefas de forma eficiente.
+- ⚡ **Proatividade** — iniciativa para identificar melhorias e agir na resolução de necessidades.
+- 🔍 **Atenção aos detalhes** — cuidado na análise, desenvolvimento e revisão de tarefas.
+
+---
 ## 🚀 Principais Competências Técnicas
 
 ### 📐 Modelagem
