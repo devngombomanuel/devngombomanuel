@@ -71,11 +71,11 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 ---
 ### 🌟 Projetos em Destaque
 
-## 🏢 Marketplace de Salões de Eventos Plataforma desenvolvida para facilitar a pesquisa, reserva e gestão de salões para eventos.
+# 🏢 Marketplace de Salões de Eventos Plataforma desenvolvida para facilitar a pesquisa, reserva e gestão de salões para eventos.
 
-## 🩺 YetuSaúde Plataforma digital voltada para a gestão e acesso a serviços de saúde, oferecendo uma experiência moderna para pacientes e profissionais, com foco em eficiência, acessibilidade e transformação digital no setor da saúde.
+# 🩺 YetuSaúde Plataforma digital voltada para a gestão e acesso a serviços de saúde, oferecendo uma experiência moderna para pacientes e profissionais, com foco em eficiência, acessibilidade e transformação digital no setor da saúde.
 
-## 💻 Sistema de Gestão do Clube de Programação Competitiva Sistema completo para gestão administrativa e académica do Clube de Programação Competitiva do Instituto de Tecnologias de Informação e Comunicação.
+# 💻 Sistema de Gestão do Clube de Programação Competitiva Sistema completo para gestão administrativa e académica do Clube de Programação Competitiva do Instituto de Tecnologias de Informação e Comunicação.
 
 ---
 
