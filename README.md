@@ -94,7 +94,8 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliomanueldev/)
 
-- [![Codeforces](https://img.shields.io/badge/Codeforces-MNjulio23-blue)](https://codeforces.com/profile/MNjulio23)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-manuel-66b72a24a/)
   
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliobugfixer)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
+  
 ```
