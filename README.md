@@ -1,4 +1,3 @@
-```markdown
 ## Bem-vindo! ✅
 👋 Olá! Seja bem-vindo ao meu perfil.
 
