@@ -98,7 +98,7 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 
 ## 🔥 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=juliobugfixer&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devngombomanuel&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true)
 
 ---
 
