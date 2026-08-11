@@ -84,7 +84,7 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 
 ## 🏆 Prêmios Conquistados
 
-- 🥇 Colaborador de uma **Biblioteca Virtual**, projeto distinguido na categoria **Impacto Académico** durante a **2.ª Conferência Científica sobre Tecnologia, Inovação e Empreendedorismo** da Universidade de Luanda.
+- 🥇 Contributo activo no desenvolvimento da **Biblioteca Virtual Inlib**, projeto distinguido na categoria **Impacto Académico** durante a **2.ª Conferência Científica sobre Tecnologia, Inovação e Empreendedorismo** da Universidade de Luanda.
 
 ---
 
