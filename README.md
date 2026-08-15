@@ -9,7 +9,7 @@ Tenho interesse em **Arquiteturas e boas práticas de código**, **APIs REST**, 
   <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Me..." width="400">
 </p>
 
-## 📬 Entra em contato, e vamos codificar!
+## 📬 Entre em contato, e vamos codificar!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-manuel-66b72a24a/)
   
