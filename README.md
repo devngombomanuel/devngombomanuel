@@ -1,22 +1,20 @@
 ## Bem-vindo! ✅
-## 📬 Contacto
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-manuel-66b72a24a/)
-  
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
+**Desenvolvedor back-end**, **Programador Competitivo** e **formando em Engenharia Informática**, apaixonado por tecnologia e pelo desenvolvimento de soluções digitais modernas, eficientes e escaláveis.
 
----
-
-## 🧑🏿‍💻 Sobre Mim
-
-Sou **Desenvolvedor de Software com foco em Back-end**, **Programador Competitivo** e **estudante de Engenharia Informática**, apaixonado por tecnologia e pelo desenvolvimento de soluções digitais modernas, eficientes e escaláveis.
-
-Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento Full Stack**, **estrutura de dados**, **algoritmos** e **boas práticas de engenharia de software**. Estou em constante aprendizado, buscando aprimorar minhas competências técnicas e contribuir para projetos que gerem impacto real.
+Tenho interesse em **Arquiteturas boas práticas de engenharia de software**, **APIs REST**, **estrutura de dados**, **algoritmos** Estou em constante aprendizado, buscando aprimorar minhas competências técnicas e contribuir para projetos que gerem impacto real.
 
 
 <p align="right">
   <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Me..." width="400">
 </p>
+
+## 📬 Entra em contato, e vamos codificar!
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-manuel-66b72a24a/)
+  
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
+
 
 ---
 ## 🧠 Soft Skills
@@ -33,10 +31,6 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 ---
 ## 🚀 Principais Competências Técnicas
 
-### 📐 Modelagem
-
-- ![UML](https://img.shields.io/badge/UML-FF5733?style=for-the-badge&logo=uml&logoColor=white)
-
 ### ⚙️ Back-end
 
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,16 +40,6 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 - ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
-
-### 🎨 Front-end
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 🗄️ Banco de Dados
 
