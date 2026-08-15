@@ -2,7 +2,7 @@
 
 **Desenvolvedor back-end**, **Programador Competitivo** e **formando em Engenharia Informática**, apaixonado por tecnologia e pelo desenvolvimento de soluções digitais modernas, eficientes e escaláveis.
 
-Tenho interesse em **Arquiteturas boas práticas de engenharia de software**, **APIs REST**, **estrutura de dados**, **algoritmos** Estou em constante aprendizado, buscando aprimorar minhas competências técnicas e contribuir para projetos que gerem impacto real.
+Tenho interesse em **Arquiteturas e boas práticas de código**, **APIs REST**, **estrutura de dados**, **algoritmos** Estou em constante aprendizado, buscando aprimorar minhas competências técnicas e contribuir para projetos que gerem impacto real.
 
 
 <p align="right">
