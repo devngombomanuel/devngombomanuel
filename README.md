@@ -1,5 +1,9 @@
 ## Bem-vindo! ✅
-👋 Olá! Seja bem-vindo ao meu perfil.
+## 📬 Contacto
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-manuel-66b72a24a/)
+  
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
 
 ---
 
@@ -92,10 +96,4 @@ Tenho interesse em **Arquitetura de Software**, **APIs REST**, **desenvolvimento
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devngombomanuel&show_icons=true&theme=tokyonight&hide_title=false&hide_border=false&count_private=true)
 
----
 
-## 📬 Contacto
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngombo-manuel-66b72a24a/)
-  
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
