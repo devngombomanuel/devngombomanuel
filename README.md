@@ -11,7 +11,7 @@ Tenho interesse em **Arquiteturas e boas práticas de código**, **APIs REST**, 
 
 ## 📬 Entre em contato, e vamos codificar!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ngombo-manuel-66b72a24a/](https://www.linkedin.com/in/ngonbomanuel/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngonbomanuel/)
   
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
 
