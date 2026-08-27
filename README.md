@@ -66,12 +66,12 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 ## 🎯 Filosofia
 
-> *"Código limpo, arquitetura bem definida e aprendizado contínuo constroem sistemas escaláveis."*
+> *"Fazer o código funcionar é apenas o primeiro passo; o verdadeiro desafio é mantê-lo escalável e sustentável."*
 
 ---
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,mssql,postgres,mongodb,docker,git,github,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,azure,postgres,mongodb,git,github,vscode,visualstudio" />
   </a>
 </p>
