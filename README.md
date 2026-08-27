@@ -8,7 +8,7 @@
   <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Me..." width="400">
 </p>
 
-## ❓ Quem sou eu?
+## 👨🏾‍💻 Quem sou eu?
 Desenvolvedor Backend .NET, focado na construção e integração de sistemas e aplicações robustas, seguras e escaláveis utilizando o ecossistema .NET
 
 Atualmente estudando e construindo projetos com foco em:
