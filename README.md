@@ -57,7 +57,7 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 ---
 
-## 📈 Minhas Estatísticas
+## 📈 Estatísticas do Perfil
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=devngombomanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
