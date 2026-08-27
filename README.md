@@ -8,8 +8,6 @@
   <img src="https://github.com/juliobugfixer/juliobugfixer/blob/6a34c9c6de26dfde56011587a9f3422bde164fba/debugging....png" alt="Me..." width="400">
 </p>
 
----
-
 ## ❓ Quem sou eu?
 Desenvolvedor Backend .NET, focado na construção e integração de sistemas e aplicações robustas, seguras e escaláveis utilizando o ecossistema .NET
 
@@ -64,3 +62,14 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=devngombomanuel&theme=tokyonight&hide_border=true)
 <!--![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devngombomanuel&layout=compact&theme=tokyonight&hide_border=true)-->
+
+
+## 🎯 Filosofia
+
+> "Código limpo, arquitetura bem definida e aprendizado contínuo constroem sistemas escaláveis."
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,docker,git,github,vscode,visualstudio" />
+</p>
