@@ -60,4 +60,4 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 ---
 
 ## 📈 Estatísticas
-![GitHub Streak](https://streak-stats.demolab.com/?user=devngombomanuel&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=devngombomanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
