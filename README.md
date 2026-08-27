@@ -1,6 +1,6 @@
-## 🙌 OLÁ!
-
-<p align="center" font-weight=""bold>
+<h1 align="center">🙌 OLÁ!</h1>
+---
+<p align="center" weight="bold">
   Desenvolvedor Backend .NET | Estudante de Engenharia Informática - INSTIC | Programador Competitivo
 </p>
 
@@ -31,10 +31,8 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 ## 📬 CONECTE-SE!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngonbomanuel/)
-  
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngmanuel21@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngmanuel21@gmail.com)
 
 ---
 ## 🚀STACK TECNOLÓGICA
@@ -62,5 +60,4 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 ---
 
 ## 🔥 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devngombomanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devngombomanuel&layout=compact&theme=tokyonight&hide_border=true)
+
