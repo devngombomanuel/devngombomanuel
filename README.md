@@ -1,7 +1,9 @@
-<h1 align="center">🙌 OLÁ!</h1>
+<h1 align="center">🙌 Olá!</h1>
+
 ---
-<p align="center" weight="bold">
-  Desenvolvedor Backend .NET | Estudante de Engenharia Informática - INSTIC | Programador Competitivo
+
+<p align="center">
+  Desenvolvedor Backend .NET | Programador Competitivo | Estudante de Engenharia Informática - INSTIC 
 </p>
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 ---
 
-## ❓ QUEM SOU EU?
+## ❓ Quem sou eu?
 Desenvolvedor Backend .NET, focado na construção e integração de sistemas e aplicações robustas, seguras e escaláveis utilizando o ecossistema .NET
 
 Atualmente estudando e construindo projetos com foco em:
@@ -28,15 +30,15 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 ---
 
-## 📬 CONECTE-SE!
+## 📬 Conecte-se!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngonbomanuel/)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244948662069)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngmanuel21@gmail.com)
 
 ---
-## 🚀STACK TECNOLÓGICA
-### 🛠️ Tech Stack & Ferramentas
+
+## 🛠️ Stack Tecnológica & Ferramentas
 
 #### Backend & APIs
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -59,5 +61,5 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 ---
 
-## 🔥 Estatísticas do GitHub
-
+## 📈 Estatísticas
+![GitHub Streak](https://streak-stats.demolab.com/?user=devngombomanuel&theme=tokyonight&hide_border=true)
