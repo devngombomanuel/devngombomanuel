@@ -72,7 +72,6 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img
-src="https://skillicons.dev/iconsi=cs,dotnet,azure,docker,postgres,mongodb,git,github,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,postgres,mongodb,git,github,visualstudio,vscode" />
   </a>
 </p>
