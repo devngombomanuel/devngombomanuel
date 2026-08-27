@@ -60,4 +60,5 @@ Interesse contínuo em boas práticas de desenvolvimento, Clean Code, e Cloud Na
 ---
 
 ## 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=devngombomanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=devngombomanuel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devngombomanuel&layout=compact&theme=tokyonight&hide_border=true)
