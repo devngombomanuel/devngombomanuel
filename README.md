@@ -1,7 +1,5 @@
 <h1 align="center">🙌 Olá!</h1>
 
----
-
 <p align="center">
   Desenvolvedor Backend .NET | Programador Competitivo | Estudante de Engenharia Informática - INSTIC 
 </p>
